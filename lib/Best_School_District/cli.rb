@@ -1,0 +1,2 @@
+# class BestSchoolDistrict::CLI
+# end
