@@ -1,14 +1,14 @@
-class BestSchoolDistrict::Scraper
+# class BestSchoolDistrict::Scraper
 
-def get_page
-    url = URI.parse("https://www.niche.com/k12/search/best-school-districts/t/valley-stream-nassau-ny/")
-
-    response = Net::HTTP.get(url)
-    binding.pry 
-   #noko = Nokogiri::HTML(response)
-   
-end
-
+# # def get_page
+# # html = ("https://www.niche.com/k12/search/best-school-districts/t/valley-stream-nassau-ny/")
+# # uri = URI.parse(html)
+# # response = Net::HTTP.get(uri)
+# # noko = Nokogiri::HTML(response)
+# # binding.pry
+# #  end
 
 
-end
+
+
+#  end
